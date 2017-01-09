@@ -41,7 +41,7 @@ The course is mostly taught in Python, a dynamic language that is widely used in
 Points will come from the following
 
 - Homework (50%)
-  - You will be graded on your best 10 homework scores but note that 6 of these are mandatory.
+  - You will be graded on your best 10 homework scores but note that 6 of these are mandatory and always included in the final grade. Homework is always due 4 PM Wednesday the next week. Late homework will not be graded as we review homework solutions in Wednesday's lab session.
       - **01**. Python basics (mandatory)
       - **02**. Working with text (mandatory)
       - **03**. Working with numbers (mandatory)
