@@ -3,8 +3,10 @@
 ## Contacts
 
 - Cliburn Chan (cliburn.chan@duke.edu)
+  - Office hours: Mon 5-6 PM at 11078 Hock Suite 1102
 - Janice McCarthy (janice.mccarthy@duke.edu)
 - Christine Chai (christine.chai@duke.edu)
+  - Office hors: Wed 1-3 PM at Old Chem 025
 - Hanyu Song MS (hanyu.song@duke.edu)
 
 ## Computational Statistics and Statistical Computing
