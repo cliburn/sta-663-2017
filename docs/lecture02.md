@@ -1,0 +1,48 @@
+# Functions and classes
+
+- Functions
+  - Why functions?
+  - Built-in functions: `len`, `range`, `enumerate`, `zip`
+  - User-defined functions
+    - structure
+    - docstring
+    - positional and named arguments
+    - default values
+      - idiom for using mutable structures as default values
+    - `*args` and `**kwargs`
+    - return value
+  - Anonymous functions
+  - Functions are first class objects
+    - Function dispatch
+  - HOF
+    - Returning a function
+      - factory
+    - Taking a function as argument
+      - decorator
+    - Abstracting flow control
+      - map, filter, reduce, flatmap
+  - Modules and importing
+- Generators
+  - Streaming and memory conservation
+  - Using `yield` and `yield from`
+  - Generator expression
+  - Comprehensions: list, set, dictionary
+- The humble for loop
+  - Standard form
+  - As a comprehension
+  - Using map
+  - Vectorization
+- Classes
+  - Why classes?
+    - Abstraction
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+  - Attributes and methods
+  - User defined classes
+  - Base and derived classes
+- Worksheet 1
+  - Practice coding
+- Homework
+  - Sample
+  - Homework 01 (Due 4 PM Wed 18, 2017)
