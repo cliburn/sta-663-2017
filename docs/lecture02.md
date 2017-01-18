@@ -21,7 +21,6 @@
       - decorator
     - Abstracting flow control
       - map, filter, reduce, flatmap
-  - Modules and importing
 - Generators
   - Streaming and memory conservation
   - Using `yield` and `yield from`
