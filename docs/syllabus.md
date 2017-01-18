@@ -8,7 +8,7 @@
 - Christine Chai (christine.chai@duke.edu)
   - Office hors: Wed 1-3 PM at Old Chem 025
 - Hanyu Song MS (hanyu.song@duke.edu)
-  - Office hours: Tue 2-3 PM & Wed 3-4 PM at Old Chem 211A
+  - Office hours: Tue 2-3 PM & Wed 3-4 PM at Old Chem 211A
 ## Computational Statistics and Statistical Computing
 
 In statistics, we apply probability theory to real-world data to make informed guesses. For any practical analysis, the use of computers is necessary. This course is designed for graduate research students who need to analyze complex data sets, and/or implement efficient statistical algorithms from the literature. We focus on the following computational skills necessary for modern data analysis:
