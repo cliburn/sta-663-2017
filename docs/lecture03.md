@@ -47,6 +47,12 @@
     - groups
     - indices
 
+## Word count idioms
+
+- Using a dictionary, a defaultdict and a Counter
+- Using lists of tuples
+- Functional style
+
 ## Practice
 
 - Worksheet 1
