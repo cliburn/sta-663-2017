@@ -6,7 +6,7 @@
   - Office hours: Mon 5-6 PM at 11078 Hock Suite 1102
 - Janice McCarthy (janice.mccarthy@duke.edu)
 - Christine Chai (christine.chai@duke.edu)
-  - Office hors: Wed 1-3 PM at Old Chem 025
+  - Office hours: Tue 7-9 PM at Gray 228
 - Hanyu Song MS (hanyu.song@duke.edu)
   - Office hours: Mon 3:30-4:30 PM & Fri 11:30 AM-12:30 PM at Old Chem 211A
   
