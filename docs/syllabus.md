@@ -8,7 +8,7 @@
 - Christine Chai (christine.chai@duke.edu)
   - Office hors: Wed 1-3 PM at Old Chem 025
 - Hanyu Song MS (hanyu.song@duke.edu)
-  - Office hours: Tue 2-3 PM & Wed 3-4 PM at Old Chem 211A
+  - Office hours: Mon 3:30-4:30 PM & Fri 11:30 AM-12:30 PM at Old Chem 211A
   
 ## Computational Statistics and Statistical Computing
 
