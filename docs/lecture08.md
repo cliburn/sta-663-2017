@@ -1,0 +1,61 @@
+# Machine Learning in Python
+
+## Machine learning concept
+
+- [An image classification example](http://rapid-235.vm.duke.edu:5000)
+  - Python-powered
+    - `opencv` and `scikit-image` for feature extraction
+    - `keras` for feature augmentation
+    - `scikit-learn` for classification
+    - `flask` for web application
+    - plus some JavaScript for interactive web features
+- Types of learning
+  - Unsupervised (clustering, density estimation)
+  - Supervised (classification, regression)
+  - Reinforcement (reward and punishment)
+- Objective of ML
+  - Predict outcome from features
+  - y = outcome or label
+  - X = vector of features
+  - y = f(X, Θ) + error
+  - Loss function = g(y, f(X, Θ))
+- Model evaluation
+  - In-sample (training) and out-of-sample (test) errors
+  - Cross validation
+    - Holdout
+    - K-fold
+    - LOOCV
+  - **Note**: Any step which uses label/outcome information must be included in cross-validation pipeline
+- S/L training pipeline
+  - Raw data
+  - Extract features from raw data
+  - Normalize/scale features
+  - Select features for use in model
+  - Model selection/evaluation
+- S/L training process in `scikit-learn`
+  - Consistent API for `scikit-learn` classes
+    - `fit`
+    - `transform`
+    - `predict`
+    - `fit_transform` for transformations
+    - `fit_predict` for clustering
+    - `score` for classification and regression
+    - `get_params`
+    - `set_params`
+  - [Feature extraction]((http://scikit-learn.org/stable/modules/feature_extraction.html))
+    - Domain knowledge useful
+    - Consider augmenting with external data sources
+    - More specialized tools
+      - [From natural language](http://www.nltk.org)
+      - [From images](http://scikit-image.org)
+      - [From images/video](http://opencv.org)
+      - [Image feature augmentation](https://keras.io/preprocessing/image/)
+      - [From audio](https://github.com/tyiannak/pyAudioAnalysis)
+  - [Normalize/scale features](http://scikit-learn.org/stable/modules/preprocessing.html)
+      - Necessary for methods based on measures of distance
+      - Most commonly
+      - **Note**: Must apply same scaling to training and test data
+  - [Feature selection](http://scikit-learn.org/dev/modules/feature_selection.html)
+    - **Note**: Include feature selection in a pipeline
+  - [Model selection/evaluation](http://scikit-learn.org/stable/model_selection.html)
+  
