@@ -1,4 +1,4 @@
-scratch/M.npy                                                                                                             
+scratch/M.npy
 scratch/foo.txt
 homework/ulysses.txt
 homework/ecoli.fas
@@ -8,6 +8,20 @@ notebook/looking_glass.txt
 worksheet/jabberwocky.txt
 worksheet/truncated_jabberwocky.txt
 notebook/titanic.*
+notebook/add.cpp
+notebook/add.hpp
+notebook/c_math.c
+notebook/c_math.h
+notebook/cy_math.c
+notebook/cy_math.pxd
+notebook/cy_math.pyx
+notebook/distance.py
+notebook/foo.py
+notebook/plus.c
+notebook/plus.pyx
+notebook/setup.py
+notebook/test_distance.py
+notebook/work.prof
 
 web/
 *_files/
