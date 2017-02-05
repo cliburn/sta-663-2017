@@ -21,6 +21,13 @@ Contents:
    07_Data.rst
    08_SQL.rst
    09_Machine_Learning.rst
+   10A_CodeOptimization.rst
+   10B_Numba.rst
+   10C_Cython.rst
+   11A_Parallel_Programming.rst
+   11B_Threads_Processses_Concurrency.rst
+   11C_IPyParallel.rst
+   
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
 
