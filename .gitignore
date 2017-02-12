@@ -1,16 +1,15 @@
 scratch/*.png
 scratch/M.npy
+
 scratch/C++/
 scratch/add1/
 scratch/add2/
 scratch/add3/
-scratch/add_driver
-scratch/arrays
+scratch/arrays/
 scratch/funcs2/
 scratch/hello/
 scratch/linker/
 scratch/numeric/
-scratch/run
 
 
 homework/ulysses.txt
