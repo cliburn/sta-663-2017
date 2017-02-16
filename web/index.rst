@@ -27,7 +27,9 @@ Contents:
    11A_Parallel_Programming.rst
    11B_Threads_Processses_Concurrency.rst
    11C_IPyParallel.rst
-   
+   12A_C++.rst
+   12B_C++_Python_pybind11.rst
+
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
 
