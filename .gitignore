@@ -1,6 +1,8 @@
 scratch/*.png
 scratch/M.npy
 
+scratch/*cpp
+scratch/*hpp
 scratch/C++/
 scratch/add1/
 scratch/add2/
@@ -10,7 +12,14 @@ scratch/funcs2/
 scratch/hello/
 scratch/linker/
 scratch/numeric/
+scratch/example1/
+scratch/example2/
+scratch/example3/
+scratch/example4/
+scratch/test_*py
 
+*.cppimporthash
+setup.py
 
 homework/ulysses.txt
 homework/ecoli.fas
