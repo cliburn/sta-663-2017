@@ -12,10 +12,7 @@ scratch/funcs2/
 scratch/hello/
 scratch/linker/
 scratch/numeric/
-scratch/example1/
-scratch/example2/
-scratch/example3/
-scratch/example4/
+scratch/example*/
 scratch/test_*py
 
 *.cppimporthash
