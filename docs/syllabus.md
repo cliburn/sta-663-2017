@@ -9,7 +9,7 @@
   - Office hours: Tue 7-9 PM at Gray 228
 - Hanyu Song MS (hanyu.song@duke.edu)
   - Office hours: Mon 3:30-4:30 PM & Fri 11:30 AM-12:30 PM at Old Chem 211A
-  
+
 ## Computational Statistics and Statistical Computing
 
 In statistics, we apply probability theory to real-world data to make informed guesses. For any practical analysis, the use of computers is necessary. This course is designed for graduate research students who need to analyze complex data sets, and/or implement efficient statistical algorithms from the literature. We focus on the following computational skills necessary for modern data analysis:
@@ -49,15 +49,14 @@ Points will come from the following
       - **02**. Working with text (mandatory)
       - **03**. Working with numbers (mandatory)
       - **04**. Data processing (mandatory)
-      - **05**. Data visualization (mandatory)
-      - **06**. Code optimization
-      - **07**. Interacting with C++
-      - **08**. Linear algebra and matrix methods (mandatory)
-      - **09**. Univariate optimization
-      - **10**. Multivariate optimization
-      - **11**. Simulations and graphical models
-      - **12**. Markov Chain Monte Carlo
-      - **13**. Working with out-of-core and big data
+      - **05**. Code optimization
+      - **06**. Interacting with C++
+      - **07**. Linear algebra and matrix methods (mandatory)
+      - **08**. Univariate optimization
+      - **09**. Multivariate optimization
+      - **10**. Simulations and graphical models
+      - **11**. Markov Chain Monte Carlo
+      - **12**. Working with out-of-core and big data
 
 - Midterm exams (20%)
   - Closed-book in-class exam
