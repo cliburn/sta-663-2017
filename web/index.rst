@@ -29,7 +29,11 @@ Contents:
    11C_IPyParallel.rst
    12A_C++.rst
    12B_C++_Python_pybind11.rst
-
+   13A_LinearAlgebra1.rst
+   13B_LinearAlgebra2.rst
+   13C_LinearAlgebraExamples.rst
+   13D_PCA.rst
+   13E_SparseMatrices.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
 
