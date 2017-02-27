@@ -34,6 +34,9 @@ Contents:
    13C_LinearAlgebraExamples.rst
    13D_PCA.rst
    13E_SparseMatrices.rst
+   14A_Optimization_One_Dimension.rst
+   14B_Multivariate_Optimization.rst
+   14C_Optimization_In_Python.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
 
