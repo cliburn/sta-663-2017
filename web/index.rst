@@ -39,6 +39,7 @@ Contents:
    14C_Optimization_In_Python.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
+   Extras_03_Symbolic_Algebra.rst
 
 Indices and tables
 ==================
