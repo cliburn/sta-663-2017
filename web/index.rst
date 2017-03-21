@@ -37,6 +37,9 @@ Contents:
    14A_Optimization_One_Dimension.rst
    14B_Multivariate_Optimization.rst
    14C_Optimization_In_Python.rst
+   15A_Random_Numbers.rst
+   15B_ResamplingAndSimulation.rst
+   15C_MonteCarloIntegration.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
    Extras_03_Symbolic_Algebra.rst

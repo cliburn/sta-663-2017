@@ -83,7 +83,7 @@ Grades will be rounded to the nearest integer - i.e. 89.4 will be rounded to 89 
 
 ### Honor code
 
-Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity.  
+Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity.
 
 To uphold the Duke Community Standard:
 
@@ -142,7 +142,7 @@ Note 2: The midterm examination is **closed book** - you should not access any r
 1. Multivariate optimization
 2. Optimization for generalized linear models
 
-### Week 10: Simulations and graphical models (21-23 Mar)
+### Week 10: Probabilistic algorithms (21-23 Mar)
 
 1. Statistical simulations
 2. PGMs and HMMs
