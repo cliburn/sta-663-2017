@@ -40,6 +40,11 @@ Contents:
    15A_Random_Numbers.rst
    15B_ResamplingAndSimulation.rst
    15C_MonteCarloIntegration.rst
+   16_PGM.rst
+   17A_MCMC.rst
+   17B_AuxiliaryVariableMCMC.rst
+   17C_PyMC3.rst
+   17D_Pystan.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
    Extras_03_Symbolic_Algebra.rst
