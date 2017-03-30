@@ -1,25 +1,19 @@
 homework/hw6_ex3
-notebook/random.dat                                                                                 
-notebook/random.hdf5                                                                                
-scratch/func_ptrs/                                                                                  
-scratch/funcs1/                                                                                     
-scratch/loops/                                                                                      
+notebook/random.dat
+notebook/random.hdf5
+notebook/random.hdf5
+scratch/func_ptrs/
+scratch/funcs1/
+scratch/loops/                                                                  scratch/data/
 scratch/templates/
-
 notebook/data/
-
 homework/*png
 homework/*cpp
 homework/*txt
 homework/eigen
-
-
 scratch/*txt
-
 algorithms/
-
 *rst
-
 scratch/*.png
 scratch/M.npy
 
@@ -36,6 +30,19 @@ scratch/linker/
 scratch/numeric/
 scratch/example*/
 scratch/test_*py
+scratch/17_Functional_And_Distributed_Programming.ipynb
+scratch/data/movies.csv
+scratch/data/x000.csv
+scratch/data/x001.csv
+scratch/data/x002.csv
+scratch/data/x003.csv
+scratch/data/x004.csv
+scratch/data/xs.hddf5
+scratch/data/xs.hdf5
+scratch/log
+scratch/movies.hdf5
+scratch/random.dat
+scratch/random.hdf5
 
 *.cppimporthash
 setup.py
