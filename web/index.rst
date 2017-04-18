@@ -41,10 +41,22 @@ Contents:
    15B_ResamplingAndSimulation.rst
    15C_MonteCarloIntegration.rst
    16_PGM.rst
-   17A_MCMC.rst
-   17B_AuxiliaryVariableMCMC.rst
-   17C_PyMC3.rst
-   17D_Pystan.rst
+   17_Functional_Programming.rst
+   17A_Intermediate_Sized_Data.rst
+   17B_Big_Data_Structures.rst
+   18A_Dask.rst
+   18B_Spark.rst
+   18C_Efficiency_In_Spark.rst
+   18D_Spark_MLib.rst
+   18E_Spark_SQL.rst
+   18F_Spark_GraphX.rst
+   18G_Spark_Streaming.rst
+   18H_Spark_Cloud.rst
+   19A_PyMC3.rst
+   19B_Pystan.rst
+   20A_MCMC.rst
+   20B_AuxiliaryVariableMCMC.rst
+   21_TensorFlow_Edward.rst
    Extras_01_The_Humble_For_Loop.rst
    Extras_02_Functional_Word_Counting.rst
    Extras_03_Symbolic_Algebra.rst
